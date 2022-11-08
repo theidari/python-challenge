@@ -7,9 +7,15 @@
 <sup><i>python challenge - UofT Data Analytics BootCamp</i></sup>
 </P>
 
+<details><summary><b>Section 1 : Financial Analysis</b></summary>
 
-  <img src="https://github.com/theidari/python-challenge/blob/main/FA-IMG.png" width="1600" title="Financial Analysis">
+ <img src="https://github.com/theidari/python-challenge/blob/main/FA-IMG.png" width="1600" title="Financial Analysis">
 
+</details>
 
+<details><summary><b>Section 2 : Election Results</b></summary>
 
-# Section 2 : Election Results
+ <img src="https://github.com/theidari/python-challenge/blob/main/FA-IMG.png" width="1600" title="Financial Analysis">
+
+</details>
+
