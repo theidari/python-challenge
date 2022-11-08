@@ -8,7 +8,9 @@
 <sup><i>python challenge - UofT Data Analytics BootCamp</i></sup>
 </P>
 
-# 
-# Section 1 : Financial Analysis
+#
+  <img src="https://github.com/theidari/python-challenge/blob/main/business-information-accounting-application.jpg" width="1600" title="CrowdfundingBook">
+
+#
 
 # Section 2 : Election Results
