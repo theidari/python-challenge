@@ -11,13 +11,13 @@
 
 <details open><summary>Table of Contents</summary>
 
-1. [Overview of Project](https://github.com/theidari/VBA-challenge#1-overview-of-project)  
-   1. [Objective](https://github.com/theidari/VBA-challenge#i-objective)
-   2. [Methods and Software](https://github.com/theidari/VBA-challenge#ii-methods-and-software)
+1. [Overview of Project](https://github.com/theidari/python-challenge#1-overview-of-project)  
+   1. [Objective](https://github.com/theidari/python-challenge#i-objective)
+   2. [Methods and Software](https://github.com/theidari/python-challenge#ii-methods-and-software)
 2. [Code](https://github.com/theidari/python-challenge/edit/main/README.md#2-code)
-3. [Result](https://github.com/theidari/VBA-challenge#3-results)
-4. [Explore The Docs](https://github.com/theidari/VBA-challenge#4-Explore-The-Docs)
-5. [References](https://github.com/theidari/VBA-challenge#5-References)
+3. [Result](https://github.com/theidari/python-challenge#3-results)
+4. [Explore The Docs](https://github.com/theidari/python-challenge#4-explore-the-docs)
+5. [References](https://github.com/theidari/python-challenge#5-references)
 </details>
 
 ## 1. Overview of Project
@@ -35,11 +35,11 @@ This project used python programming language to analyze the profit and losses o
 | 6|The greatest decrease in profits |  |
 
 ### ii. Methods and Software
-The analyses were performed using the [Financial Analysis](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm) and [Election Results](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm) dataset.
+The analyses were performed using the [Financial Analysis](https://github.com/theidari/python-challenge/blob/main/PyBank/Resources/budget_data.csv) and [Election Results](https://github.com/theidari/python-challenge/blob/main/PyPoll/Resources/election_data.csv) dataset.
 Following Software and programming language were used in this project:
 
    - python
-   - Vs
+   - VS
 
 ## 2. Code
 
@@ -75,13 +75,13 @@ The total votes was : 369,711
 <img src="https://github.com/theidari/python-challenge/blob/main/PyPoll/analysis/Elec_Result_IMG.png" width="400" title="Election Results of Colorado">
 </p>
 
-[<sup>⬆ BACK TO TOP ⬆</sup>](#multiple-year-stock-analysis)
-<a name="multiple-year-stock-analysis"></a> 
+[<sup>⬆ BACK TO TOP ⬆</sup>](#financial-analysis--election-results)
+<a name="financial-analysis--election-results"></a>  
 
 ## 4. Explore The Docs
-[Election Results of Colorado](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm)
+[Financial Analysis Images and TXT File](https://github.com/theidari/python-challenge/tree/main/PyBank/analysis)
 
-[Results Images](https://github.com/theidari/VBA-challenge/tree/main/Result%20and%20File%20IMGs)
+[Election Results Images and TXT File](https://github.com/theidari/python-challenge/tree/main/PyPoll/analysis)
 
 ## 5. References
 Dataset created by Trilogy Education Services, a 2U, Inc. brand.
