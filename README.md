@@ -1,6 +1,8 @@
 <p align="center">
+ <img src="https://github.com/theidari/python-challenge/blob/main/ReadMe%20IMG/FA-IMG.png" width="450" title="Financial Analysis">
+
 <h1 align="center">
-<b>Financial Analysis    |  Election Results</b>
+<b>Financial Analysis & Election Results</b>
 </h1>
 </p>
 <p align="center">
@@ -12,30 +14,77 @@
 1. [Overview of Project](https://github.com/theidari/VBA-challenge#1-overview-of-project)  
    1. [Objective](https://github.com/theidari/VBA-challenge#i-objective)
    2. [Methods and Software](https://github.com/theidari/VBA-challenge#ii-methods-and-software)
-2. [Code](https://github.com/theidari/VBA-challenge#2-code)
+2. [Code](https://github.com/theidari/python-challenge/edit/main/README.md#2-code)
 3. [Result](https://github.com/theidari/VBA-challenge#3-results)
 4. [Explore The Docs](https://github.com/theidari/VBA-challenge#4-Explore-The-Docs)
 5. [References](https://github.com/theidari/VBA-challenge#5-References)
 </details>
 
-<details><summary><b>Section 1 : Financial Analysis</b></summary>
+## 1. Overview of Project
+This project used python programming language to analyze the profit and losses of a dried tea production company in Colorado in the first part, in the second part analyze the Colorado state election and identified the winner of the election who had the background for supporting small businesses.
 
- <img src="https://github.com/theidari/python-challenge/blob/main/ReadMe%20IMG/FA-IMG.png" width="1600" title="Financial Analysis">
+### i. Objective
 
-</details>
+|No. | Financial Analysis  | Election Results |
+|------| ------------- | ------------- |
+| 1|The total number of months | The total number of votes cast  |
+| 2|The net total amount of "Profit/Losses" | A complete list of candidates who received votes  |
+| 3|The changes in "Profit/Losses"  | The percentage of votes each candidate won  |
+| 4|Average of Total Change | The total number of votes each candidate won |
+| 5|The greatest increase in profits | The winner of the election based on popular vote |
+| 6|The greatest decrease in profits |  |
 
-<details><summary><b>Section 2 : Election Results</b></summary>
+### ii. Methods and Software
+The analyses were performed using the [Financial Analysis](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm) and [Election Results](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm) dataset.
+Following Software and programming language were used in this project:
 
- <img src="https://github.com/theidari/python-challenge/blob/main/ReadMe%20IMG/ER-IMG.png" width="1600" title="Election Result">
+   - python
+   - Vs
 
-</details>
+## 2. Code
+
+[Financial Analysis](https://github.com/theidari/python-challenge/blob/main/PyBank/main.py)
+
+[Election Results](https://github.com/theidari/python-challenge/blob/main/PyPoll/main.py)
+
+## 3. Results
+<b>Financial Analysis:</b>
+<br>
+The [Results](https://github.com/theidari/python-challenge/blob/main/PyBank/analysis/financial_analysis.txt) of <b>86</b> months <b>profit and losses</b> analysis shows that: <b>The net total amount of Profit/Losses</b> is 22564198 $. and the company had -8311.11 $ <b>Average Change</b> in the period of 2010 to 2017, Also the <i>greatest increase</i> and the <i>greatest decrease</i> in profit for this facility in order was 1862002 $ (August 2016) and -1825558 $ (February 2014).
+<br></br>
+
+> <sub>Financial Analysis 2010-2017</sub>
+<p align="center">
+<img src="https://github.com/theidari/python-challenge/blob/main/PyBank/analysis/Fin_Result_IMG.png" width="400" title="Financial Analysis 2010-2017">
+</p>
+
+
+<b>Election Results:</b>
+<br>
+The [analysis of the election](https://github.com/theidari/python-challenge/blob/main/PyPoll/analysis/election_analysis.txt) shows that: <b>Diana DeGette</b> who received 73.812% of the vote (272,892 number of votes) was the winner of this election, also other <i>Candidates</i> in this 
+competition were <i>Charles Casper Stockham</i> and <i>Raymon Anthony Doane</i> with below result:
+
+   - Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
+   
+   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+   
+The total votes was : 369,711
+
+> <sub>Election Results of Colorado</sub>
+<p align="center">
+<img src="https://github.com/theidari/python-challenge/blob/main/PyPoll/analysis/Elec_Result_IMG.png" width="400" title="Election Results of Colorado">
+</p>
+
+[<sup>⬆ BACK TO TOP ⬆</sup>](#multiple-year-stock-analysis)
+<a name="multiple-year-stock-analysis"></a> 
+
 ## 4. Explore The Docs
-[Multiple Year Stock Data](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm)
+[Election Results of Colorado](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm)
 
 [Results Images](https://github.com/theidari/VBA-challenge/tree/main/Result%20and%20File%20IMGs)
 
 ## 5. References
 Dataset created by Trilogy Education Services, a 2U, Inc. brand.
 
-[<sup>⬆ BACK TO TOP ⬆</sup>](#financial-analysis------election-results)
-<a name="financial-analysis------election-results"></a> 
+[<sup>⬆ BACK TO TOP ⬆</sup>](#financial-analysis--election-results)
+<a name="financial-analysis--election-results"></a> 
