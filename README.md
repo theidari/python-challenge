@@ -21,7 +21,8 @@
 </details>
 
 ## 1. Overview of Project
-This project used python programming language to analyze the profit and losses of a dried tea production company in Colorado in the first part, in the second part analyze the Colorado state election and identified the winner of the election who had the background for supporting small businesses.
+
+<p align="justify">This project implements the use of Python programming language to perform an analysis of the financial performance of a dried tea production company located in Colorado. In the second phase of the project, a comprehensive evaluation of the Colorado state election is carried out and the candidate with a strong background in supporting small businesses is identified as the winner.</p>
 
 ### i. Objective
 
